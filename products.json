@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Rose Body Mist",
+    "mood": "Romantic",
+    "type": "Body Mist",
+    "size": "100ml",
+    "price": 259,
+    "image": "",
+    "description": "กลิ่นกุหลาบหอมละมุน"
+  },
+  {
+    "id": 2,
+    "name": "Vanilla Body Mist",
+    "mood": "Sweet",
+    "type": "Body Mist",
+    "size": "100ml",
+    "price": 299,
+    "image": "",
+    "description": "กลิ่นวานิลลาหอมหวาน"
+  }
+]
